@@ -1,0 +1,6 @@
+{
+  "name": "FPS Reducer",
+  "description": "Convert and lower video frame rate (FPS) using FFmpeg with live Media3 preview and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
